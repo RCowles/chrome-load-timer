@@ -1,5 +1,5 @@
 {
-  "name": "Page load time",
+  "name": "Page load time (Tables)",
   "version": "1.2.4",
   "manifest_version": 2,
   "description": "Displays page load time in the toolbar",
